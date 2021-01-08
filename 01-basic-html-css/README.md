@@ -1,4 +1,4 @@
-# Project 01
+# Project 01 - Basics with a Blog Post
 
 This was my very first project to learn HTML and CSS.
 

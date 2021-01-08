@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Ignore final versions from courses (because it's their work!)
+00-finals/
